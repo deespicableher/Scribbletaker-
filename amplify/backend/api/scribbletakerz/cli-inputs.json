@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "scribbletakerz",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\Dee\\Desktop\\Github\\scribbletaker\\amplify\\backend\\api\\scribbletakerz\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
