@@ -10,6 +10,11 @@
       "StackName": "amplify-scribbletakerz-dev-131931",
       "StackId": "arn:aws:cloudformation:us-east-1:601596880565:stack/amplify-scribbletakerz-dev-131931/781eaf10-9fd5-11ec-9171-0a2389ae4a35",
       "AmplifyAppId": "dscz9z3lc05cu"
+    },
+    "categories": {
+      "auth": {
+        "scribbletakerzd71eeeed": {}
+      }
     }
   }
 }
